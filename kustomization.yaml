@@ -1,0 +1,5 @@
+namespace: hello-helidon
+resources:
+  - helidon-comp.yaml
+  - helidon.yaml
+
